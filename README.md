@@ -4,7 +4,11 @@ Implemented a Cross-lingual Reverse Dictionary i.e, reverse dictionary NLP model
 given a brief description of some objects in English, can provide synonyms in German.
 
 E0 334 - Deep Learning for NLP, IISc
+
+
 Assignment 6
+
+
 Problem: The aim of this assignment is to design a neural approach which finds a word in
 a target language given a rough definition or description of the target word in the source language.
 For example, for the English language input “a road where cars go quickly and without stopping”
